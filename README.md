@@ -5,6 +5,8 @@ A FastAPI-based AI Agent service that routes user prompts to appropriate tools (
 ---
 
 ## Project Structure
+
+```
 baarez-agent/
 │
 ├── main.py # FastAPI app entry point and endpoint definitions
@@ -20,6 +22,7 @@ baarez-agent/
 ├── .gitignore # Ignore venv, cache, db files
 │
 └── venv/ # Virtual environment (not pushed to GitHub)
+```
 
 ---
 
