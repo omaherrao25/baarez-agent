@@ -1,0 +1,5 @@
+CREATE TABLE memory (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    key TEXT UNIQUE,
+    value TEXT
+);
